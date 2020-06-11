@@ -1,2 +1,0 @@
-# aglarVize
-UDP Server 
